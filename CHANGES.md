@@ -41,5 +41,6 @@ Call next() if status is 404, or next(err) if status >= 400.
 
 Blacklist other hostnames by default, can be set through option.
 
+Default to sharp 0.16.0 (can be overriden in package.json to include sharp 0.12.2 for debian)
 
 
